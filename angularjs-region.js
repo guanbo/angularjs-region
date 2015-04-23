@@ -3,7 +3,7 @@
 // Region
 //=======================================================
 
-var module = angular.module("region.service", []);
+var module = angular.module("angularjs-region", []);
 
 module.service('ChinaRegion', function () {
 
