@@ -1,0 +1,23 @@
+{
+  "name": "angularjs-region",
+  "version": "1.0.0",
+  "authors": [
+    "Guan Bo <guanbo2002@gmail.com>"
+  ],
+  "description": "region sevice of angularjs",
+  "main": "angularjs-region.js",
+  "keywords": [
+    "region",
+    "angularjs",
+    "province",
+    "china"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
