@@ -890,15 +890,11 @@ module.service('ChinaRegion', function () {
         "sub": [ {
           "name": "玄武区"
         }, {
-          "name": "白下区"
-        }, {
           "name": "秦淮区"
         }, {
           "name": "建邺区"
         }, {
           "name": "鼓楼区"
-        }, {
-          "name": "下关区"
         }, {
           "name": "栖霞区"
         }, {
